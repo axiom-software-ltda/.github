@@ -3,14 +3,7 @@
 
 <div align="center">
 
-<!-- Símbolo canônico SVG -->
-<svg width="40" height="56" viewBox="-18 -28 36 46" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="-28" x2="-18" y2="18" stroke="#F5F0E8" stroke-width="1.4" stroke-linecap="round"/>
-  <line x1="0" y1="-28" x2="18"  y2="18" stroke="#F5F0E8" stroke-width="1.4" stroke-linecap="round"/>
-  <line x1="-9" y1="-6"  x2="-3"  y2="-6" stroke="#F5F0E8" stroke-width="1.1" stroke-linecap="round"/>
-  <line x1="3"  y1="-6"  x2="9"   y2="-6" stroke="#F5F0E8" stroke-width="1.1" stroke-linecap="round"/>
-  <circle cx="0" cy="-6" r="3" fill="#F5F0E8"/>
-</svg>
+<img src="./assets/symbol.svg" width="36" height="46" />
 
 <br/>
 
@@ -21,8 +14,6 @@
 Desenvolvimento sob medida e aplicações de inteligência artificial.
 
 [![Site](https://img.shields.io/badge/axiomsoftware.com.br-0D0D18?style=flat-square&labelColor=0D0D18&color=E8E4DC&logoColor=F5F0E8)](https://axiomsoftware.com.br)
-[![Localização](https://img.shields.io/badge/Porto_Alegre_·_RS-0D0D18?style=flat-square&labelColor=0D0D18&color=E8E4DC)](https://axiomsoftware.com.br)
-[![Fundada](https://img.shields.io/badge/Fundada_em_2026-0D0D18?style=flat-square&labelColor=0D0D18&color=E8E4DC)](https://axiomsoftware.com.br)
 
 </div>
 
