@@ -3,7 +3,11 @@
 
 <div align="center">
 
-<img src="./assets/symbol.svg" width="36" height="46" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="./assets/symbol-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/symbol-light.svg">
+  <img src="./assets/symbol-light.svg" width="36" height="46" />
+</picture>
 
 <br/>
 
