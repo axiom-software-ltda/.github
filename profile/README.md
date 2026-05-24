@@ -20,9 +20,9 @@
 
 Desenvolvimento sob medida e aplicações de inteligência artificial.
 
-[![Site](https://img.shields.io/badge/axiomsoftware.com.br-050508?style=flat-square&labelColor=0D0D14&color=1A1A2A&logoColor=F5F0E8)](https://axiomsoftware.com.br)
-[![Localização](https://img.shields.io/badge/Porto_Alegre_·_RS-050508?style=flat-square&labelColor=0D0D14&color=1A1A2A)](https://axiomsoftware.com.br)
-[![Fundada](https://img.shields.io/badge/Fundada_em_2026-050508?style=flat-square&labelColor=0D0D14&color=1A1A2A)](https://axiomsoftware.com.br)
+[![Site](https://img.shields.io/badge/axiomsoftware.com.br-0D0D18?style=flat-square&labelColor=0D0D18&color=E8E4DC&logoColor=F5F0E8)](https://axiomsoftware.com.br)
+[![Localização](https://img.shields.io/badge/Porto_Alegre_·_RS-0D0D18?style=flat-square&labelColor=0D0D18&color=E8E4DC)](https://axiomsoftware.com.br)
+[![Fundada](https://img.shields.io/badge/Fundada_em_2026-0D0D18?style=flat-square&labelColor=0D0D18&color=E8E4DC)](https://axiomsoftware.com.br)
 
 </div>
 
